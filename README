@@ -1,0 +1,31 @@
+
+TaxiBusiness 	
+	This smart contract enables 9 foreign people to work together through the transparency of the smart contract. Buy Taxi, sell back, hire driver.In the end, the best way to share the money back to people.
+
+
+Getting Started	
+	The first user has been appointed as manager. Other accounts can be selected by joining join. Participants can intervene in any subject they are allowed to do. This job, accompanied by the manager, gives everyone the right to speak and authority
+
+Prerequisites
+	All users must own 100 ether. We need 1 car and 1 driver to accept customers.
+
+Installing	
+	The Manager is designated. Up to 9 members can be registered. 100 ethers are given. The Manager can also become a Participant. The car dealer is appointed by the manager. Car Dealer offers a car. 51% will be purchased if accepted. The Manager then offers a driver and salary. If 51% are accepted, they are hired. After that the customer starts to come. Customers money is collected at Contract Balance. After the fees and the driver's salary are paid, the remaining money is shared among the participant.
+	
+Running the tests		
+	Since I get an error in the getdividend function in my tests, I added the line that I specified in the code as an explanation. There is nothing wrong with the line, but I get an error when I add it.It works in the same way if I add or delete 3 other functions.
+
+Built With
+	https://remix.ethereum.org
+
+Versioning
+	Version : 0.5.11
+
+Authors
+	Fatih OKSUZOGLU (fatihoksuzoglu@hotmail.com)
+
+References 
+	https://www.youtube.com/watch?v=ipwxYa-F1uY
+
+
+	
